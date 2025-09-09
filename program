@@ -1,0 +1,11 @@
+#intiallizing the value of a,b,and c
+a=int(intput("enter the first number:"))
+b=int(intput("enter the second number:"))
+c=int(intput("enter the third number:"))
+#using relation operators
+print(a,">",b,"is",a>b)
+print(a,"<",b,"is",a<b)
+print(c,"==",b,"is",c==b)
+print(c,"!=",b,"is",c!=b)
+print(a,">=",b,"is",a>=b)
+print(a,"<=",b,"is",a<=b)
