@@ -1,0 +1,10 @@
+#taking three numbers as input
+a=int(input("enter the first number:"))
+b=int(input("enter the second number:"))
+c=int(input("enter the third number:"))
+#performing logical operations
+print("\n logical operations results:")
+printf((a>b) and (b>c))
+print((a>b) or (b>c))
+print(not(a>b))
+print(not(b>c))
